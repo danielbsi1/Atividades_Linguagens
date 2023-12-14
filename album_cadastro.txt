@@ -1,9 +1,0 @@
-Álbum: Amanhecer|Lançado em 1985|Pela banda/artista Evermore|Foi o album de lançamento dessa banda.
-Álbum: Laoa|Lançado em 1999|Pela banda/artista samba nos pés|Não foi o album de lançamento dessa banda.
-Álbum: AAAA|Lançado em 1985|Pela banda/artista baba|Foi o album delançamento dessa banda.
-Álbum: aaaa|Lançado em 1985|Pela banda/artista aaaaaaaaa|Foi o album delançamento dessa banda.
-Álbum: apu|Lançado em 1774|Pela banda/artista apupu|Foi o album delançamento dessa banda.
-Álbum: uga|Lançado em 1718|Pela banda/artista buga|Foi o album delançamento dessa banda.
-Álbum: uga|Lançado em 1718|Pela banda/artista buga|Foi o album delançamento dessa banda.
-Álbum: UGA|Lançado em 1875|Pela banda/artista FLUGA|Foi o album delançamento dessa banda.
-Álbum: |Lançado em |Pela banda/artista |Foi o album delançamento dessa banda.
